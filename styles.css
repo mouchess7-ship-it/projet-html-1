@@ -1,0 +1,27 @@
+body {
+  font-family: 'Roboto',
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: blue;
+}
+#home {color:gold;font-family: 'Courier New', Courier, monospace;}
+
+#about {}
+#work {}
+#resume {}
+#contact {}
+
+
+
+
+video {
+    border-radius: 20px;
+    margin: 10px;
+}
+
